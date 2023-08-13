@@ -1,2 +1,2 @@
 message=input("Enter some text:")
-print(message)
+print("Your message is "+message)
